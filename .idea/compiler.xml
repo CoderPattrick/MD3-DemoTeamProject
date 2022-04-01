@@ -2,10 +2,13 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="16" />
+<<<<<<< HEAD
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="MD3-DemoTeamProject.main" options="--add-modules java.base" />
     </option>
+=======
+>>>>>>> f95b4e61ffe54c04734dfabb0e71b7125b4bf905
   </component>
 </project>
