@@ -1,2 +1,5 @@
-package com.codegym.model;public class Teacher {
+package com.codegym.model;
+
+public class Teacher {
+
 }
