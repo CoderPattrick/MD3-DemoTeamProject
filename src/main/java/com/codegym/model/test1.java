@@ -1,2 +1,4 @@
-package com.codegym.model;public class test1 {
+package com.codegym.model;
+
+public class test1 {
 }
